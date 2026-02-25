@@ -31,4 +31,4 @@
 
 <hr style="border: 0.5px solid #444; width: 90%;">
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef10&layout=compact&hide_border=false&bg_color=00000000&langs_count=8&title_color=ffffff&text_color=ffffff" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef09&layout=compact&hide_border=false&bg_color=00000000&langs_count=8&title_color=ffffff&text_color=ffffff" />
